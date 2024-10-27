@@ -1,4 +1,4 @@
-# VUT-IJC_proj2
+# VUT-IJC_proj1
 
 BODY: 14/15
 
