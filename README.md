@@ -1,7 +1,7 @@
 # Eratosthenes sieve and comment remover
 VUT FIT 2023/24 - IJC proj1  
 
-Incldues 2 different programs:
+Includes 2 different programs:
 
 ## primes (primes-i)
 First one is for finding largest prime numbers using eratosthenes sieve algorithm and bitfields for effectivity.
